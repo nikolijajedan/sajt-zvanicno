@@ -1,0 +1,170 @@
+
+body {
+	
+	overflow:hidden;
+	 background-color: #fcfbca;
+}
+
+#naslov {
+	position:absolute;
+    top:125px;
+    right:0px;
+    width:20px;
+    color:#ff7300;
+}
+
+#naslov2 {
+	position:absolute;
+    top:135px;
+    right:3px;
+    width:20px;
+    color:#ff7300;
+}
+
+#naslov3 {
+	position:absolute;
+    top:800px;
+    right:1120px;
+    width:20px;
+    color:#ff7300;
+}
+
+#naslov4{
+	position:absolute;
+    top:80px;
+    right:120px;
+    width:20px;
+    color:#ff7300;
+}
+
+#naslov5{
+	position:absolute;
+    top:550px;
+    right:520px;
+    width:20px;
+    color:#ff7300;
+}
+
+#naslov6{
+	position:absolute;
+    top:840px;
+    right:650px;
+    width:20px;
+    color:#ff7300;
+}
+
+#naslov7{
+	position:absolute;
+    top:514px;
+    right:360px;
+    width:20px;
+    color:#ff7300;
+}
+
+#naslov8{
+	position:absolute;
+    top:333px;
+    right:333px;
+    width:20px;
+    color:#ff7300;
+}
+
+#naslov9{
+	position:absolute;
+    top:33px;
+    right:1003px;
+    width:20px;
+    color:#ff7300;
+}
+
+#naslov10{
+	position:absolute;
+    top:333px;
+    right:1652px;
+    width:20px;
+    color:#ff7300;
+}
+
+#naslov11{
+	position:absolute;
+    top:333px;
+    right:1800px;
+    width:20px;
+    color:#ff7300;
+}
+
+#naslov12{
+	position:absolute;
+    top:500px;
+    right:956px;
+    width:20px;
+    color:#ff7300;
+}
+
+#naslov13{
+	position:absolute;
+    top:852px;
+    right:1000px;
+    width:20px;
+    color:#ff7300;
+}
+
+#naslov14{
+	position:absolute;
+    top:14px;
+    right:14px;
+    width:20px;
+    color:#ff7300;
+}
+
+#naslov15{
+	position:absolute;
+    top:14px;
+    right:17px;
+    width:20px;
+    color:#ff7300;
+}
+
+#o_meni_zvezde{
+	position: absolute;
+	top: 350px;
+	right:942px;
+
+}
+
+.ribadruga{
+	position: absolute;
+	top: 700px;
+	right: 1500px;
+}
+
+.sunce{
+	position: absolute;
+	top: 710px;
+	right: 50px;
+}
+
+
+p {
+	color:#f26a1b;
+	font-size:40px;
+}
+
+a {
+	color:#ff7300;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#f59218;
+}
+
+ 
+ svg:hover{
+ 	color: #ff7300
+ }
+
+ svg:hover{
+	fill:#ff7300 ;
+	transform: rotate(360deg);
+}

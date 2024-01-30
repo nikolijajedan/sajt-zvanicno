@@ -1,0 +1,31 @@
+body {
+	
+background-color: #fcfbca;
+ }
+#naslov {
+	position:absolute;
+    top:135px;
+    right:3px;
+    width:200px;
+    color:#ff7300;
+}
+
+
+
+
+#tekst{
+	font-family: IBM Plex Mono;
+	font-size: 24;
+}
+
+#tekst2{
+	font-family: IBM Plex Mono;
+	font-size: 16;
+}
+a {
+	color:#ff7300;
+	text-decoration:none;
+}
+a:hover {
+	color:#f59218;
+}

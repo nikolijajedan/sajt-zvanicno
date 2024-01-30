@@ -1,0 +1,23 @@
+body {
+
+   overflow:hidden;
+   background-color: #fcfbca;
+
+}
+
+#autoportret {
+	position:absolute;
+	left:220px;
+	top:10px;
+}
+
+#o_meni_tekst {
+	position: absolute;
+	top:830px;
+	text-align:center; 
+	font-family: IBM Plex Mono;
+}
+svg:hover{
+	fill:#ff7300 ;
+	transform: rotate(360deg);
+}

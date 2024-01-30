@@ -1,0 +1,28 @@
+body {
+	
+background-color: #fcfbca;
+ }
+
+ #naslov {
+	position:absolute;
+    top:135px;
+    right:3px;
+    width:200px;
+    color:#ff7300;
+}
+
+#gif {
+	height:80vh;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+
+a {
+	color:#ff7300;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#f59218;
+}

@@ -1,0 +1,68 @@
+body {
+ 
+   background-color: #fcfbca;
+}
+/*slovo c za nazad*/
+#naslov {
+  position:absolute;
+    top:135px;
+    right:3px;
+    width:200px;
+    color:#ff7300;
+}
+
+/* prozor u kom se pise */
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #c7790c;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  font-family: IBM Plex Mono;
+
+}
+/*submit button tj opa*/
+input[type=submit] {
+  background-color: #ff7300;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #54708f;
+}
+
+/* Style the container/contact section */
+/*ovo je za pozadinu*/
+.container {
+  border-radius: 5px;
+  background-color: ;
+  padding: 10px;
+}
+
+/*ovo je ono gde se pise */
+.column {
+  width: 96.5%;
+  margin-top: 6px;
+  padding: 20px;
+}
+
+a {
+  color:#ff7300;
+  text-decoration:none;
+}
+
+a:hover {
+  color:#f59218;
+}
+
+#biser{
+  top: 50px;
+  right: 793,5px;
+}
+
+
+
